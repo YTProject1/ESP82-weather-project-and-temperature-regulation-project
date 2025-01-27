@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL2aSpLRKXX"
-#define BLYNK_TEMPLATE_NAME "weather monitoring"
-#define BLYNK_AUTH_TOKEN "1k5UVU1QBM5g3qDwEomNoXL5IvXo4Ceg"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 
 #include <ESP8266WiFi.h>
